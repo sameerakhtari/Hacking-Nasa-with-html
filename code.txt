@@ -19,12 +19,18 @@ public class Player {
          ListFrame lf=new ListFrame();
          
          File file;
+
 Player()
 {
    
     
    // playSet();
     
+}
+
+public imTrying()
+{
+System.out.println("ACCEPT IT");
 }
 
     private static ArrayList<String> pList = new ArrayList<>(); 
