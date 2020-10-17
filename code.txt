@@ -184,7 +184,9 @@ public void pause()
  }
  
 
-
+public void print(){
+	System.out.println("My function")
+}
 
 
 
